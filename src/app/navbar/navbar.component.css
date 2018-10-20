@@ -1,0 +1,11 @@
+header .topo{
+    background-color: darkcyan;
+    width: 100%;
+    /* padding: 10px 0; */
+}
+
+img.logo{
+    display: inherit;
+    margin: 0 auto;
+    align-items: center;
+}
